@@ -42,7 +42,8 @@ The cache is implemented using two core data structures:
 
 ## Time and Space Complexity
 | Operation | Complexity |
-get-> O(1) 
-put  ->  O(1) 
-Space  -> O(capacity) 
+|---------|------------|
+| `get`   | O(1) |
+| `put`  | O(1) |
+| Space  | O(capacity) |
 
